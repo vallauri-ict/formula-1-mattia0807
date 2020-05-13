@@ -51,15 +51,37 @@ D:\5B\INFO\FormulaOneSolution\FormulaOneBatchConsoleProject\obj\Debug\FormulaOne
 D:\5B\INFO\FormulaOneSolution\FormulaOneBatchConsoleProject\obj\Debug\FormulaOneBatchConsoleProject.csproj.CoreCompileInputs.cache
 D:\5B\INFO\FormulaOneSolution\FormulaOneBatchConsoleProject\obj\Debug\FormulaOneBatchConsoleProject.exe
 D:\5B\INFO\FormulaOneSolution\FormulaOneBatchConsoleProject\obj\Debug\FormulaOneBatchConsoleProject.pdb
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneBatchConsoleProject\bin\Debug\FormulaOneBatchConsoleProject.exe.config
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneBatchConsoleProject\bin\Debug\FormulaOneBatchConsoleProject.exe
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneBatchConsoleProject\bin\Debug\FormulaOneBatchConsoleProject.pdb
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneBatchConsoleProject\bin\Debug\FormulaOneDll.dll
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneBatchConsoleProject\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneBatchConsoleProject\bin\Debug\FormulaOneDll.pdb
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneBatchConsoleProject\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneBatchConsoleProject\obj\Debug\FormulaOneBatchConsoleProject.csprojAssemblyReference.cache
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneBatchConsoleProject\obj\Debug\FormulaOneBatchConsoleProject.csproj.CoreCompileInputs.cache
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneBatchConsoleProject\obj\Debug\FormulaOneBatchConsoleProject.csproj.CopyComplete
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneBatchConsoleProject\obj\Debug\FormulaOneBatchConsoleProject.exe
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\FormulaOneBatchConsoleProject\obj\Debug\FormulaOneBatchConsoleProject.pdb
+D:\5B\INFO\formula-1-gcanavero0417\FormulaOneBatchConsoleProject\bin\Debug\FormulaOneBatchConsoleProject.exe.config
+D:\5B\INFO\formula-1-gcanavero0417\FormulaOneBatchConsoleProject\bin\Debug\FormulaOneBatchConsoleProject.exe
+D:\5B\INFO\formula-1-gcanavero0417\FormulaOneBatchConsoleProject\bin\Debug\FormulaOneBatchConsoleProject.pdb
+D:\5B\INFO\formula-1-gcanavero0417\FormulaOneBatchConsoleProject\bin\Debug\FormulaOneDll.dll
+D:\5B\INFO\formula-1-gcanavero0417\FormulaOneBatchConsoleProject\bin\Debug\Newtonsoft.Json.dll
+D:\5B\INFO\formula-1-gcanavero0417\FormulaOneBatchConsoleProject\bin\Debug\FormulaOneDll.pdb
+D:\5B\INFO\formula-1-gcanavero0417\FormulaOneBatchConsoleProject\bin\Debug\Newtonsoft.Json.xml
+D:\5B\INFO\formula-1-gcanavero0417\FormulaOneBatchConsoleProject\obj\Debug\FormulaOneBatchConsoleProject.csprojResolveAssemblyReference.cache
+D:\5B\INFO\formula-1-gcanavero0417\FormulaOneBatchConsoleProject\obj\Debug\FormulaOneBatchConsoleProject.csproj.CoreCompileInputs.cache
+D:\5B\INFO\formula-1-gcanavero0417\FormulaOneBatchConsoleProject\obj\Debug\FormulaOneBatchConsoleProject.exe
+D:\5B\INFO\formula-1-gcanavero0417\FormulaOneBatchConsoleProject\obj\Debug\FormulaOneBatchConsoleProject.pdb
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\FormulaOneBatchConsoleProject\bin\Debug\FormulaOneBatchConsoleProject.exe.config
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\FormulaOneBatchConsoleProject\bin\Debug\FormulaOneBatchConsoleProject.exe
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\FormulaOneBatchConsoleProject\bin\Debug\FormulaOneBatchConsoleProject.pdb
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\FormulaOneBatchConsoleProject\bin\Debug\FormulaOneDll.dll
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\FormulaOneBatchConsoleProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\FormulaOneBatchConsoleProject\bin\Debug\FormulaOneDll.pdb
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\FormulaOneBatchConsoleProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\FormulaOneBatchConsoleProject\obj\Debug\FormulaOneBatchConsoleProject.csprojAssemblyReference.cache
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\FormulaOneBatchConsoleProject\obj\Debug\FormulaOneBatchConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\FormulaOneBatchConsoleProject\obj\Debug\FormulaOneBatchConsoleProject.csproj.CopyComplete
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\FormulaOneBatchConsoleProject\obj\Debug\FormulaOneBatchConsoleProject.exe
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\FormulaOneBatchConsoleProject\obj\Debug\FormulaOneBatchConsoleProject.pdb
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\FormulaOneBatchConsoleProject\bin\Debug\FormulaOneBatchConsoleProject.exe.config
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\FormulaOneBatchConsoleProject\bin\Debug\FormulaOneBatchConsoleProject.exe
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\FormulaOneBatchConsoleProject\bin\Debug\FormulaOneBatchConsoleProject.pdb
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\FormulaOneBatchConsoleProject\bin\Debug\FormulaOneDll.dll
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\FormulaOneBatchConsoleProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\FormulaOneBatchConsoleProject\bin\Debug\FormulaOneDll.pdb
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\FormulaOneBatchConsoleProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\FormulaOneBatchConsoleProject\obj\Debug\FormulaOneBatchConsoleProject.csprojResolveAssemblyReference.cache
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\FormulaOneBatchConsoleProject\obj\Debug\FormulaOneBatchConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\FormulaOneBatchConsoleProject\obj\Debug\FormulaOneBatchConsoleProject.exe
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\FormulaOneBatchConsoleProject\obj\Debug\FormulaOneBatchConsoleProject.pdb

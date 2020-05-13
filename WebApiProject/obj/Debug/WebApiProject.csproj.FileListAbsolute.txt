@@ -118,64 +118,245 @@ D:\5B\INFO\formula-1-gcanavero0417\WebApiProject\obj\Debug\WebApiProject.csprojR
 D:\5B\INFO\formula-1-gcanavero0417\WebApiProject\obj\Debug\WebApiProject.csproj.CoreCompileInputs.cache
 D:\5B\INFO\formula-1-gcanavero0417\WebApiProject\obj\Debug\WebApiProject.dll
 D:\5B\INFO\formula-1-gcanavero0417\WebApiProject\obj\Debug\WebApiProject.pdb
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\ApplicationInsights.config
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\WebApiProject.dll.config
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\WebApiProject.dll
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\WebApiProject.pdb
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\Antlr3.Runtime.dll
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\FormulaOneDll.dll
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\Microsoft.AI.Agent.Intercept.dll
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\Microsoft.AI.DependencyCollector.dll
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\Microsoft.AI.PerfCounterCollector.dll
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\Microsoft.AI.Web.dll
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\Microsoft.AI.WindowsServer.dll
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\Microsoft.ApplicationInsights.dll
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\Newtonsoft.Json.dll
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\System.Net.Http.Formatting.dll
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\System.Web.Helpers.dll
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\System.Web.Http.dll
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\System.Web.Http.WebHost.dll
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\System.Web.Mvc.dll
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\System.Web.Optimization.dll
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\System.Web.Razor.dll
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\System.Web.WebPages.Deployment.dll
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\System.Web.WebPages.dll
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\System.Web.WebPages.Razor.dll
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\WebGrease.dll
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\FormulaOneDll.pdb
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\Newtonsoft.Json.xml
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\System.Net.Http.Formatting.xml
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\System.Web.Helpers.xml
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\System.Web.Http.xml
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\System.Web.Http.WebHost.xml
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\System.Web.Mvc.xml
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\System.Web.Optimization.xml
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\System.Web.Razor.xml
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\System.Web.WebPages.xml
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\System.Web.WebPages.Deployment.xml
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\System.Web.WebPages.Razor.xml
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\Antlr3.Runtime.pdb
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\Microsoft.ApplicationInsights.xml
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\Microsoft.AI.DependencyCollector.xml
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\Microsoft.AI.WindowsServer.xml
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\Microsoft.AI.Web.xml
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\it\System.Net.Http.Formatting.resources.dll
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\it\System.Web.Helpers.resources.dll
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\it\System.Web.Http.resources.dll
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\it\System.Web.Http.WebHost.resources.dll
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\it\System.Web.Mvc.resources.dll
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\it\System.Web.Optimization.resources.dll
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\it\System.Web.Razor.resources.dll
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\it\System.Web.WebPages.resources.dll
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\it\System.Web.WebPages.Deployment.resources.dll
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\bin\it\System.Web.WebPages.Razor.resources.dll
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\obj\Debug\WebApiProject.csprojAssemblyReference.cache
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\obj\Debug\WebApiProject.csproj.CoreCompileInputs.cache
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\obj\Debug\WebApiProject.csproj.CopyComplete
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\obj\Debug\WebApiProject.dll
-C:\Users\Enrico Danni\Desktop\FormulaOne_Danni\formula-1-enrico0403\WebApiProject\obj\Debug\WebApiProject.pdb
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\ApplicationInsights.config
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\WebApiProject.dll.config
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\WebApiProject.dll
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\WebApiProject.pdb
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\Antlr3.Runtime.dll
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\FormulaOneDll.dll
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\Microsoft.AI.Web.dll
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\Newtonsoft.Json.dll
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\System.Net.Http.Formatting.dll
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\System.Web.Helpers.dll
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\System.Web.Http.dll
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\System.Web.Http.WebHost.dll
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\System.Web.Mvc.dll
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\System.Web.Optimization.dll
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\System.Web.Razor.dll
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\System.Web.WebPages.dll
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\WebGrease.dll
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\FormulaOneDll.pdb
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\Newtonsoft.Json.xml
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\System.Net.Http.Formatting.xml
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\System.Web.Helpers.xml
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\System.Web.Http.xml
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\System.Web.Http.WebHost.xml
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\System.Web.Mvc.xml
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\System.Web.Optimization.xml
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\System.Web.Razor.xml
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\System.Web.WebPages.xml
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\Antlr3.Runtime.pdb
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\Microsoft.AI.Web.xml
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\it\System.Net.Http.Formatting.resources.dll
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\it\System.Web.Helpers.resources.dll
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\it\System.Web.Http.resources.dll
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\it\System.Web.Http.WebHost.resources.dll
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\it\System.Web.Mvc.resources.dll
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\it\System.Web.Optimization.resources.dll
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\it\System.Web.Razor.resources.dll
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\it\System.Web.WebPages.resources.dll
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\it\System.Web.WebPages.Deployment.resources.dll
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\bin\it\System.Web.WebPages.Razor.resources.dll
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\obj\Debug\WebApiProject.csprojAssemblyReference.cache
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\obj\Debug\WebApiProject.csproj.CoreCompileInputs.cache
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\obj\Debug\WebApiProject.csproj.CopyComplete
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\obj\Debug\WebApiProject.dll
+C:\Users\faran\Desktop\Informatica\github\formula-1-francescopepez\WebApiProject\obj\Debug\WebApiProject.pdb
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\ApplicationInsights.config
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\WebApiProject.dll.config
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\WebApiProject.dll
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\WebApiProject.pdb
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\Antlr3.Runtime.dll
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\FormulaOneDll.dll
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\Microsoft.AI.Agent.Intercept.dll
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\Microsoft.AI.DependencyCollector.dll
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\Microsoft.AI.Web.dll
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\Microsoft.AI.WindowsServer.dll
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\Microsoft.ApplicationInsights.dll
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\Microsoft.Web.Infrastructure.dll
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\Newtonsoft.Json.dll
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\System.Net.Http.Formatting.dll
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\System.Web.Helpers.dll
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\System.Web.Http.dll
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\System.Web.Http.WebHost.dll
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\System.Web.Mvc.dll
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\System.Web.Optimization.dll
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\System.Web.Razor.dll
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\System.Web.WebPages.Deployment.dll
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\System.Web.WebPages.dll
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\System.Web.WebPages.Razor.dll
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\WebGrease.dll
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\FormulaOneDll.pdb
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\Newtonsoft.Json.xml
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\System.Net.Http.Formatting.xml
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\System.Web.Helpers.xml
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\System.Web.Http.xml
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\System.Web.Http.WebHost.xml
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\System.Web.Mvc.xml
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\System.Web.Optimization.xml
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\System.Web.Razor.xml
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\System.Web.WebPages.xml
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\System.Web.WebPages.Deployment.xml
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\System.Web.WebPages.Razor.xml
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\Antlr3.Runtime.pdb
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\Microsoft.ApplicationInsights.xml
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\Microsoft.AI.DependencyCollector.xml
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\Microsoft.AI.WindowsServer.xml
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\Microsoft.AI.Web.xml
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\it\System.Net.Http.Formatting.resources.dll
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\it\System.Web.Helpers.resources.dll
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\it\System.Web.Http.resources.dll
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\it\System.Web.Http.WebHost.resources.dll
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\it\System.Web.Mvc.resources.dll
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\it\System.Web.Optimization.resources.dll
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\it\System.Web.Razor.resources.dll
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\it\System.Web.WebPages.resources.dll
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\it\System.Web.WebPages.Deployment.resources.dll
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\bin\it\System.Web.WebPages.Razor.resources.dll
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\obj\Debug\WebApiProject.csprojAssemblyReference.cache
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\obj\Debug\WebApiProject.csproj.CoreCompileInputs.cache
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\obj\Debug\WebApiProject.csproj.CopyComplete
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\obj\Debug\WebApiProject.dll
+D:\scuola\cambieriInfo\formula-1-MarcoOlivero\formula1\WebApiProject\obj\Debug\WebApiProject.pdb
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\ApplicationInsights.config
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\WebApiProject.dll.config
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\WebApiProject.dll
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\WebApiProject.pdb
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\Antlr3.Runtime.dll
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\FormulaOneDll.dll
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\Microsoft.AI.Web.dll
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\Newtonsoft.Json.dll
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\System.Net.Http.Formatting.dll
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\System.Web.Helpers.dll
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\System.Web.Http.dll
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\System.Web.Http.WebHost.dll
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\System.Web.Mvc.dll
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\System.Web.Optimization.dll
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\System.Web.Razor.dll
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\System.Web.WebPages.dll
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\WebGrease.dll
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\FormulaOneDll.pdb
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\Newtonsoft.Json.xml
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\System.Net.Http.Formatting.xml
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\System.Web.Helpers.xml
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\System.Web.Http.xml
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\System.Web.Http.WebHost.xml
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\System.Web.Mvc.xml
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\System.Web.Optimization.xml
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\System.Web.Razor.xml
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\System.Web.WebPages.xml
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\Antlr3.Runtime.pdb
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\Microsoft.AI.Web.xml
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\it\System.Net.Http.Formatting.resources.dll
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\it\System.Web.Helpers.resources.dll
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\it\System.Web.Http.resources.dll
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\it\System.Web.Http.WebHost.resources.dll
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\it\System.Web.Mvc.resources.dll
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\it\System.Web.Optimization.resources.dll
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\it\System.Web.Razor.resources.dll
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\it\System.Web.WebPages.resources.dll
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\it\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\bin\it\System.Web.WebPages.Razor.resources.dll
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\obj\Debug\WebApiProject.csprojResolveAssemblyReference.cache
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\obj\Debug\WebApiProject.csproj.CoreCompileInputs.cache
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\obj\Debug\WebApiProject.dll
+C:\Users\Mattia Tonello\Desktop\formula-1-MarcoOlivero-master\formula1\WebApiProject\obj\Debug\WebApiProject.pdb
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\ApplicationInsights.config
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\WebApiProject.dll.config
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\WebApiProject.dll
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\WebApiProject.pdb
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\Antlr3.Runtime.dll
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\FormulaOneDll.dll
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\Microsoft.AI.Agent.Intercept.dll
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\Microsoft.AI.DependencyCollector.dll
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\Microsoft.AI.Web.dll
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\Microsoft.AI.WindowsServer.dll
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\Microsoft.ApplicationInsights.dll
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\Microsoft.Web.Infrastructure.dll
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\Newtonsoft.Json.dll
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\System.Net.Http.Formatting.dll
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\System.Web.Helpers.dll
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\System.Web.Http.dll
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\System.Web.Http.WebHost.dll
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\System.Web.Mvc.dll
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\System.Web.Optimization.dll
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\System.Web.Razor.dll
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\System.Web.WebPages.Deployment.dll
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\System.Web.WebPages.dll
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\System.Web.WebPages.Razor.dll
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\WebGrease.dll
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\FormulaOneDll.pdb
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\Newtonsoft.Json.xml
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\System.Net.Http.Formatting.xml
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\System.Web.Helpers.xml
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\System.Web.Http.xml
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\System.Web.Http.WebHost.xml
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\System.Web.Mvc.xml
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\System.Web.Optimization.xml
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\System.Web.Razor.xml
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\System.Web.WebPages.xml
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\System.Web.WebPages.Deployment.xml
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\System.Web.WebPages.Razor.xml
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\Antlr3.Runtime.pdb
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\Microsoft.ApplicationInsights.xml
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\Microsoft.AI.DependencyCollector.xml
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\Microsoft.AI.WindowsServer.xml
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\Microsoft.AI.Web.xml
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\it\System.Net.Http.Formatting.resources.dll
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\it\System.Web.Helpers.resources.dll
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\it\System.Web.Http.resources.dll
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\it\System.Web.Http.WebHost.resources.dll
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\it\System.Web.Mvc.resources.dll
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\it\System.Web.Optimization.resources.dll
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\it\System.Web.Razor.resources.dll
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\it\System.Web.WebPages.resources.dll
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\it\System.Web.WebPages.Deployment.resources.dll
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\bin\it\System.Web.WebPages.Razor.resources.dll
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\obj\Debug\WebApiProject.csprojResolveAssemblyReference.cache
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\obj\Debug\WebApiProject.csproj.CoreCompileInputs.cache
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\obj\Debug\WebApiProject.dll
+D:\TONELLO\GITHUB\formula-1-mattia0807\WebApiProject\obj\Debug\WebApiProject.pdb

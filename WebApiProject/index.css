@@ -1,0 +1,58 @@
+﻿input[type=button]
+{
+    margin-top: 10px;
+
+}
+body
+{
+    background-color: rgb(65,65,65);
+}
+
+.tabella {
+    background-color: white;
+}
+
+nav ul li {
+    font-family: fantasy;
+    font-size: 25pt;
+}
+
+nav ul li a:hover {
+    color: white !important;
+}
+
+nav {
+    background-color: black !important;
+    height: 90px;
+}
+
+a
+{
+    color:red !important;
+    font-weight:bold;
+}
+.btn {
+    background-color: black !important;
+    color: red;
+    font-weight: bold;
+}
+h1 {
+    text-align: center;
+    font-weight: bold;
+}
+#info p {
+    text-align: center;
+    font-weight: bold;
+}
+
+#info{
+    margin:10px auto;
+    width:50%;
+    border:5px solid red;
+    background-color:white;
+}
+
+.desc {
+    width: 50%;
+    font-weight: normal !important;
+}

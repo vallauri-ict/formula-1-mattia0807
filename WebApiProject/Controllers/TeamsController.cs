@@ -5,10 +5,12 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 using FormulaOneDll;
+using WebApiProject.DTO;
 
 namespace WebApiProject.Controllers
 {
-    public class TeamsController : ApiController
+    [RoutePrefix("api/teams")]
+    public class teamsController : ApiController
     {
         DbTools db = new DbTools();
 
@@ -17,6 +19,15 @@ namespace WebApiProject.Controllers
             db.GetTeams();
             return db.Teams.Values;
         }
+        [Route("list")]
+        public IEnumerable<TeamSimple> GetAllSimpleDrivers()
+        {
+            db.GetTeams();
+            List<TeamSimple> t = new List<TeamSimple>();
+            db.Teams.Values.ToList().ForEach(team => t.Add(new TeamSimple(team)));
+            return t;
+        }
+        [Route("{id:int}")]
         public IHttpActionResult GetTeam(int id)
         {
             db.GetTeams();
